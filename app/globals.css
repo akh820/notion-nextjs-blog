@@ -76,6 +76,11 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+
+  /* 헤더랑 목차의 여백을 맞추기 위해 변수로 적용 */
+  --header-height: 3.5rem;
+  --sticky-offset: 1.5rem;
+  --sticky-top: calc(var(--header-height) + var(--sticky-offset));
 }
 
 .dark {
@@ -119,4 +124,9 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.container {
+  @apply mx-auto max-w-6xl px-4;
+  width: 100%;
 }
