@@ -1,0 +1,767 @@
+---
+description: 노션 블로그 응답 객체
+globs: 
+alwaysApply: false
+---
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "1eacbcfd-8e9f-813a-95e6-fdcadb7d4e8e",
+            "created_time": "2025-05-05T02:56:00.000Z",
+            "last_edited_time": "2025-05-05T02:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "📚"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "1eacbcfd-8e9f-81c8-85fe-c3a2f2ffecaf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Description": {
+                    "id": "%3BUrC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "제가 가장 좋아하는 책 10권과 그 책들이 제 인생에 어떤 영향을 끼쳤는지 소개하는 글입니다. ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "제가 가장 좋아하는 책 10권과 그 책들이 제 인생에 어떤 영향을 끼쳤는지 소개하는 글입니다. ",
+                            "href": null
+                        }
+                    ]
+                },
+                "Slug": {
+                    "id": "Kl%5Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "layouts-pages",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "layouts-pages",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "T%5Cnr",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "f3f94c7b-a9ba-48f5-95be-7736837234c6",
+                            "name": "React",
+                            "color": "default"
+                        },
+                        {
+                            "id": "ec4b86fb-a00b-43f1-a591-f353ce51b255",
+                            "name": "Next.js",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "hy%3Ad",
+                    "type": "select",
+                    "select": {
+                        "id": "7d321161-4960-4e36-8dd4-7191c43c9d3c",
+                        "name": "Published",
+                        "color": "red"
+                    }
+                },
+                "Author": {
+                    "id": "jrg_",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "4bfe3f3d-574d-4bac-ac34-904866b85fa4"
+                        }
+                    ]
+                },
+                "Modified Date": {
+                    "id": "tBzY",
+                    "type": "date",
+                    "date": null
+                },
+                "Date": {
+                    "id": "wOPZ",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-10-11",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Title": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "레이아웃과 페이지 생성 방법",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "레이아웃과 페이지 생성 방법",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1eacbcfd8e9f813a95e6fdcadb7d4e8e",
+            "public_url": "https://blushing-pan-731.notion.site/1eacbcfd8e9f813a95e6fdcadb7d4e8e"
+        },
+        {
+            "object": "page",
+            "id": "1eacbcfd-8e9f-8152-b006-fce8ede5086c",
+            "created_time": "2025-05-05T02:56:00.000Z",
+            "last_edited_time": "2025-05-05T02:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://images.unsplash.com/photo-1616278842935-f36557148755?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "🍱"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "1eacbcfd-8e9f-81c8-85fe-c3a2f2ffecaf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Description": {
+                    "id": "%3BUrC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "이 페이지의 링크들은 다양한 튜토리얼과 학습 자료로 연결됩니다. 웹 개발 초보자부터 중급자, 전문가까지 모두에게 도움이 되는 자료를 찾을 수 있습니다.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "이 페이지의 링크들은 다양한 튜토리얼과 학습 자료로 연결됩니다. 웹 개발 초보자부터 중급자, 전문가까지 모두에게 도움이 되는 자료를 찾을 수 있습니다.",
+                            "href": null
+                        }
+                    ]
+                },
+                "Slug": {
+                    "id": "Kl%5Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "web-beginner",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "web-beginner",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "T%5Cnr",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "df6af6b0-fc38-47a1-a236-c12442030343",
+                            "name": "JavaScript",
+                            "color": "brown"
+                        },
+                        {
+                            "id": "3a456ebc-07e7-4e87-8bf5-76248bc18292",
+                            "name": "Web",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "hy%3Ad",
+                    "type": "select",
+                    "select": {
+                        "id": "7d321161-4960-4e36-8dd4-7191c43c9d3c",
+                        "name": "Published",
+                        "color": "red"
+                    }
+                },
+                "Author": {
+                    "id": "jrg_",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "4bfe3f3d-574d-4bac-ac34-904866b85fa4"
+                        }
+                    ]
+                },
+                "Modified Date": {
+                    "id": "tBzY",
+                    "type": "date",
+                    "date": null
+                },
+                "Date": {
+                    "id": "wOPZ",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-08-22",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Title": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "웹 개발 학습 가이드",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "웹 개발 학습 가이드",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1eacbcfd8e9f8152b006fce8ede5086c",
+            "public_url": "https://blushing-pan-731.notion.site/1eacbcfd8e9f8152b006fce8ede5086c"
+        },
+        {
+            "object": "page",
+            "id": "1eacbcfd-8e9f-8176-854a-cfcd59020c44",
+            "created_time": "2025-05-05T02:56:00.000Z",
+            "last_edited_time": "2025-05-05T02:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+                }
+            },
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1eacbcfd-8e9f-81c8-85fe-c3a2f2ffecaf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Description": {
+                    "id": "%3BUrC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML).",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML).",
+                            "href": null
+                        }
+                    ]
+                },
+                "Slug": {
+                    "id": "Kl%5Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "css",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "css",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "T%5Cnr",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "d12cc1cb-2032-4310-b702-ff1e5b3f4321",
+                            "name": "CSS",
+                            "color": "blue"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "hy%3Ad",
+                    "type": "select",
+                    "select": {
+                        "id": "7d321161-4960-4e36-8dd4-7191c43c9d3c",
+                        "name": "Published",
+                        "color": "red"
+                    }
+                },
+                "Author": {
+                    "id": "jrg_",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "4bfe3f3d-574d-4bac-ac34-904866b85fa4"
+                        }
+                    ]
+                },
+                "Modified Date": {
+                    "id": "tBzY",
+                    "type": "date",
+                    "date": null
+                },
+                "Date": {
+                    "id": "wOPZ",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-02-07",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Title": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Cascading Style Sheets",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Cascading Style Sheets",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Cascading-Style-Sheets-1eacbcfd8e9f8176854acfcd59020c44",
+            "public_url": "https://blushing-pan-731.notion.site/Cascading-Style-Sheets-1eacbcfd8e9f8176854acfcd59020c44"
+        },
+        {
+            "object": "page",
+            "id": "1eacbcfd-8e9f-81cb-b656-f32169af28ab",
+            "created_time": "2025-05-05T02:56:00.000Z",
+            "last_edited_time": "2025-05-05T02:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://images.unsplash.com/photo-1520962880247-cfaf541c8724?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "🧘‍♀️"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "1eacbcfd-8e9f-81c8-85fe-c3a2f2ffecaf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Description": {
+                    "id": "%3BUrC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "현재 순간에 충실하고 마음챙김을 실천하는 기술을 소개하는 글입니다.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "현재 순간에 충실하고 마음챙김을 실천하는 기술을 소개하는 글입니다.",
+                            "href": null
+                        }
+                    ]
+                },
+                "Slug": {
+                    "id": "Kl%5Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "T%5Cnr",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "5dd4e138-bb84-4ca1-8fa4-a41b7bb6ea98",
+                            "name": "Git",
+                            "color": "orange"
+                        },
+                        {
+                            "id": "8830ac58-581e-451f-81f8-c06d18535e81",
+                            "name": "Github",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "hy%3Ad",
+                    "type": "select",
+                    "select": {
+                        "id": "7d321161-4960-4e36-8dd4-7191c43c9d3c",
+                        "name": "Published",
+                        "color": "red"
+                    }
+                },
+                "Author": {
+                    "id": "jrg_",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "4bfe3f3d-574d-4bac-ac34-904866b85fa4"
+                        }
+                    ]
+                },
+                "Modified Date": {
+                    "id": "tBzY",
+                    "type": "date",
+                    "date": null
+                },
+                "Date": {
+                    "id": "wOPZ",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-12-07",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Title": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Git 시작하기 - 버전 관리 개요",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Git 시작하기 - 버전 관리 개요",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Git-1eacbcfd8e9f81cbb656f32169af28ab",
+            "public_url": "https://blushing-pan-731.notion.site/Git-1eacbcfd8e9f81cbb656f32169af28ab"
+        },
+        {
+            "object": "page",
+            "id": "1eacbcfd-8e9f-81f7-9ef1-d06dc0e83e36",
+            "created_time": "2025-05-05T02:56:00.000Z",
+            "last_edited_time": "2025-05-05T02:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5a849f6e-de21-4ffc-b4c8-249f17a9cda7"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://images.unsplash.com/photo-1555081944-c0c2f00d06e8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "💭"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "1eacbcfd-8e9f-81c8-85fe-c3a2f2ffecaf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Description": {
+                    "id": "%3BUrC",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "HTML(Hypertext Markup Language)은 웹 페이지의 구조를 정의하는 마크업 언어입니다. 웹 페이지의 콘텐츠를 여러 개의 문단, 목록, 이미지, 데이터 테이블 등으로 구조화하는 데 사용됩니다.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "HTML(Hypertext Markup Language)은 웹 페이지의 구조를 정의하는 마크업 언어입니다. 웹 페이지의 콘텐츠를 여러 개의 문단, 목록, 이미지, 데이터 테이블 등으로 구조화하는 데 사용됩니다.",
+                            "href": null
+                        }
+                    ]
+                },
+                "Slug": {
+                    "id": "Kl%5Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "html-nextjs",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "html-nextjs",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "T%5Cnr",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "d12cc1cb-2032-4310-b702-ff1e5b3f4321",
+                            "name": "CSS",
+                            "color": "blue"
+                        },
+                        {
+                            "id": "ec4b86fb-a00b-43f1-a591-f353ce51b255",
+                            "name": "Next.js",
+                            "color": "pink"
+                        },
+                        {
+                            "id": "86fa7417-e39f-4708-bb1d-26409a43cff1",
+                            "name": "HTML",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "hy%3Ad",
+                    "type": "select",
+                    "select": {
+                        "id": "7d321161-4960-4e36-8dd4-7191c43c9d3c",
+                        "name": "Published",
+                        "color": "red"
+                    }
+                },
+                "Author": {
+                    "id": "jrg_",
+                    "type": "people",
+                    "people": []
+                },
+                "Modified Date": {
+                    "id": "tBzY",
+                    "type": "date",
+                    "date": null
+                },
+                "Date": {
+                    "id": "wOPZ",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-06-09",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Title": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "HTML과 Next.js 레이아웃의 이해",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "HTML과 Next.js 레이아웃의 이해",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/HTML-Next-js-1eacbcfd8e9f81f79ef1d06dc0e83e36",
+            "public_url": "https://blushing-pan-731.notion.site/HTML-Next-js-1eacbcfd8e9f81f79ef1d06dc0e83e36"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {},
+    "request_id": "1a605c9b-da35-4b47-b700-039b997ca923"
+}
