@@ -30,8 +30,8 @@ export default function ProfileSection() {
             <div className="bg-muted rounded-full p-2">
               <div className="h-36 w-36 overflow-hidden rounded-full">
                 <Image
-                  src="/images/profile-light.png"
-                  alt="짐코딩"
+                  src="https://res.cloudinary.com/ddcbi1r3a/image/upload/v1747140753/IMG_2008_whxazm.png"
+                  alt="프로필"
                   width={144}
                   height={144}
                   className="object-cover"
@@ -41,8 +41,8 @@ export default function ProfileSection() {
           </div>
 
           <div className="text-center">
-            <h3 className="text-lg font-bold">짐코딩</h3>
-            <p className="text-primary text-sm">Full Stack Developer</p>
+            <h3 className="text-lg font-bold">안계홍</h3>
+            <p className="text-primary text-sm">11개월차 웹 개발자</p>
           </div>
 
           <div className="flex justify-center gap-2">
