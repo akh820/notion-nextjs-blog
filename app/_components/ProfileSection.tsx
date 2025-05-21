@@ -42,7 +42,7 @@ export default function ProfileSection() {
 
           <div className="text-center">
             <h3 className="text-lg font-bold">안계홍</h3>
-            <p className="text-primary text-sm">11개월차 웹 개발자</p>
+            <p className="text-primary text-sm">Full Stack Developer</p>
           </div>
 
           <div className="flex justify-center gap-2">
@@ -55,7 +55,9 @@ export default function ProfileSection() {
             ))}
           </div>
 
-          <p className="bg-primary/10 rounded p-2 text-center text-sm">코딩 교육 크리에이터 ✨</p>
+          <p className="bg-primary/10 rounded p-2 text-center text-sm">
+            잘하고 싶지만 잘 안되는 개발자✨
+          </p>
         </div>
       </CardContent>
     </Card>
